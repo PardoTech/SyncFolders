@@ -29,6 +29,7 @@ The objective of program:
 ---------------------------------- How to do ----------------------------------
 . execute the programm from your command line, four arguments needs to be passed: path to the source folder, path to the replica folder, the time interval and path to the log file
 exemples of command line input:
+
 for Windows: cd "C:/path/to/executable"
 SyncFolders.exe --source "C:/Users/<name>/<folder>/source_folder" --replica "C:/Users/<name>/<folder>/replica_folder" --interval 30 --logfile "C:/Users/<name>/<folder>/sync.log"
 
