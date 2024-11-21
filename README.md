@@ -54,6 +54,6 @@ for Mac/Linux: ./SyncFolders --source "/home/<name>/source_folder" --replica "/h
 
 
 ** Notes **
-In the .rar file, there a copy of Readme.txt, copy of sync.log, two folders, source and replica, and some files for test. I don't have the rights of the image in .rar file.
-
+In the .zip file, there a copy of Readme.txt, copy of sync.log, two folders, source and replica, and some files for test. I don't have the rights of the image in .zip file.
+In the .rar are the program and necessary files
 Created as part of a job application project
